@@ -1,0 +1,22 @@
+# Fichiers de build
+.gradle
+build/
+captured_output/
+
+# Fichiers de configuration locaux
+.idea/
+.idea/workspace.xml
+.idea/libraries
+local.properties
+
+# Fichiers générés par l'IDE
+*.iml
+.DS_Store
+
+# Fichiers de dépendances et de logs
+/captures
+.externalNativeBuild
+
+# Fichiers Keystore (ne jamais les partager)
+*.jks
+*.keystore
